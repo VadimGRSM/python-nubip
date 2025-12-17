@@ -1,0 +1,9 @@
+{
+  "input_file": "input_text.txt",
+  "dest_lang": "en",
+  "module": "deeptr_mod",
+  "output": "screen",
+  "max_chars": 900,
+  "max_words": 160,
+  "max_sentences": 6
+}
